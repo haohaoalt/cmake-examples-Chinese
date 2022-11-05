@@ -1,0 +1,4 @@
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/04sharedlibrary/build/CMakeFiles/edit_cache.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/04sharedlibrary/build/CMakeFiles/shared_library.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/04sharedlibrary/build/CMakeFiles/rebuild_cache.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/04sharedlibrary/build/CMakeFiles/shared.dir

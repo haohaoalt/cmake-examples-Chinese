@@ -1,0 +1,3 @@
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/build/CMakeFiles/rebuild_cache.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/build/CMakeFiles/hello_headers.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/build/CMakeFiles/edit_cache.dir

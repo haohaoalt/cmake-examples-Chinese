@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/shared.dir/src/main.cpp.o  -o shared -Wl,-rpath,/media/hao007/something/github/cmake-examples-Chinese/basic_learning/04sharedlibrary/build libshared_library.so 

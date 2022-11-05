@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Hello.h
+
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/src/Hello.cpp
+iostream
+-
+Hello.h
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/src/Hello.h
+
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/src/main.cpp
+Hello.h
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/02helloheaders/src/Hello.h
+

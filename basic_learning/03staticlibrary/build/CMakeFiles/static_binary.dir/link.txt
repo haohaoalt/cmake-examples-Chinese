@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/static_binary.dir/src/main.cpp.o  -o static_binary libstatic_library.a 

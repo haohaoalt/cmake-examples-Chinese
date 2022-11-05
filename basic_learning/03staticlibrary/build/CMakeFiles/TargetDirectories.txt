@@ -1,0 +1,4 @@
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/03staticlibrary/build/CMakeFiles/rebuild_cache.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/03staticlibrary/build/CMakeFiles/edit_cache.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/03staticlibrary/build/CMakeFiles/static_library.dir
+/media/hao007/something/github/cmake-examples-Chinese/basic_learning/03staticlibrary/build/CMakeFiles/static_binary.dir
