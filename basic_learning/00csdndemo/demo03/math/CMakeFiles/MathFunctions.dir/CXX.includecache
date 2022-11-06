@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/MathFunctions.cc
+MathFunctions.h
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/MathFunctions.h
+
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/MathFunctions.h
+

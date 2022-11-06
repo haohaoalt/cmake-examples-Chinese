@@ -1,0 +1,6 @@
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/CMakeFiles/rebuild_cache.dir
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/CMakeFiles/Demo.dir
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/CMakeFiles/edit_cache.dir
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/CMakeFiles/rebuild_cache.dir
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/CMakeFiles/MathFunctions.dir
+/media/hao007/something/github/hao_learning_cmake/basic_learning/00csdndemo/demo03/math/CMakeFiles/edit_cache.dir
